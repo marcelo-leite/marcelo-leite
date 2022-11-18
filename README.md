@@ -2,7 +2,7 @@
 
 He is currently a student of the Bachelor's Degree in Electrical Engineering at IFMA - Campus Imperatriz where he also works as a researcher in the area of ​​autonomous systems and computational intelligence.
 
-- 🌱 I am currently learning Python, C++, Linux and SQL.
+- 🌱 I am currently learning Python, C/C++, Linux and SQL.
 - 📫 I work as a researcher in the area of autonomous systems and computational intelligence.
 - ⚡ A person compulsive in learning new technologies.
 - 😄 Hobbies: Listening to music, watching anime and learning new technologies.
