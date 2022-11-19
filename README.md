@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-He is currently a student of the Bachelor's Degree in Electrical Engineering at IFMA - Campus Imperatriz where he also works as a researcher in the area of ​​autonomous systems and computational intelligence.
+I'm a student of the Bachelor's Degree in Electrical Engineering at IFMA - Campus Imperatriz where he also works as a researcher in the area of ​​autonomous systems and computational intelligence.
 
 - 🌱 I am currently learning Python, C/C++, Linux and SQL.
 - 📫 I work as a researcher in the area of autonomous systems and computational intelligence.
